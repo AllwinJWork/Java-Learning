@@ -18,7 +18,7 @@ public class Runner {
 		return a * b;
 	}
 
-	public static int divide(int a, int b) {
+	public static double divide(double a, double b) {
 		return a / b;
 	}
 }
